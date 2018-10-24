@@ -3,3 +3,7 @@ Add the following builtins
 	cd
 	exit
 	echo
+Add history
+Add pipelining
+Add redirection
+Add autocomplete
