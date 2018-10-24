@@ -1,4 +1,4 @@
-xsh - xeric shell
+# xsh - xeric shell
 
 To run open a terminal and enter
 
@@ -9,3 +9,5 @@ To run open a terminal and enter
 `make`
 
 `./xsh`
+
+The prototype (a.k.a dumb version) for xsh is at https://github.com/iambrj/dumb-shell
