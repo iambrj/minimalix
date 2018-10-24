@@ -1,4 +1,4 @@
-#include "decl.h"
+include "decl.h"
 #include "builtins.h"
 int xsh_execute(char **args) {
   int i;
