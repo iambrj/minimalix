@@ -1,4 +1,4 @@
-xsh - xeric shell
+# xsh - xeric shell
 
 To run open a terminal and enter
 
