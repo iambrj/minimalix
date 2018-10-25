@@ -1,9 +1,7 @@
 Add the following builtins
 	help
-	cd
 	exit
 	echo
-Add history
 Add pipelining
 Add redirection
 Add autocomplete
