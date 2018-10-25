@@ -16,6 +16,9 @@ int xsh_execute(char **args) {
 	} else if(strcmp(args[0], "echo") == 0) {
 		xsh_echo(args);
 		return 1;
+	} else if(strcmp(args[0], "help") == 0) {
+		xsh_help();
+		return 1;
 	}
 	return xsh_launch(args);
 }

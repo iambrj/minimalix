@@ -23,3 +23,7 @@ int xsh_echo(char **args) {
 	fprintf(stdout, "\n");
 	return 1;
 }
+int xsh_help(void) {
+	fprintf(stdout, "xsh - Xeric SHell - written by iambrj\n");
+	fprintf(stdout, "Usage: <command> <options>\n");
+}
