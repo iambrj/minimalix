@@ -1,7 +1,5 @@
 Add the following builtins
-	help
 	exit
-	echo
 Add pipelining
 Add redirection
 Add autocomplete
